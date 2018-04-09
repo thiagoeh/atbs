@@ -1,1 +1,3 @@
-Now reading: http://automatetheboringstuff.com/chapter3/
+http://automatetheboringstuff.com/#toc
+
+Now reading: http://automatetheboringstuff.com/chapter7
